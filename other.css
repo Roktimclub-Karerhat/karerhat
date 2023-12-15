@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	background:#dcdde1;
+} 
+.one {
+	background:#e84118;
+	padding: 10px;
+	color: #ecf0f1;
+}
+
+.five {
+	background:#1abc9c;
+	padding: 10px;
+	color: #ecf0f1;
+}

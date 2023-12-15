@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	background-color:#1abc9c;
+	color: #FFFFFF;
+} 
+.one {
+	background: #7f8fa6;
+	padding: 10px;
+	color: #FFFFFF;
+} 
+.two {
+	background:#f5f6fa;
+	padding: 10px;
+	color: #7f8c8d;
+} 
+.five {
+	background:#1abc9c;
+	padding: 10px;
+	color: #ecf0f1;
+}

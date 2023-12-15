@@ -1,0 +1,90 @@
+body{
+	background: #95a5a6;
+	margin: 0;
+	font-family: verdana;
+} 
+.sp {
+	float: left;
+	background:#5f27cd;
+	padding:10px;
+}
+
+.one {
+	background:#f5f6fa;
+	padding:10px;
+	color: #c23616;
+	overflow: hidden;
+
+}
+
+.main-menu {
+	background-color: #2980b9;
+} 
+.main-menu ul {
+	margin: p;
+	padding: 0;
+	list-style-type: none;
+} 
+.main-menu > ul > li {
+	float: left;
+	position: relative;
+} 
+.main-menu::after {
+	content: '';
+	display: block;
+	clear: both;
+} 
+.main-menu ul li a {
+	text-decoration: none;
+	padding: 10px;
+	display: block;
+	color: #FFFFFF;
+} 
+.main-menu ul li a:hover {
+	background: #34495e;
+} 
+.main-menu ul ul {
+	background: #9b59b6;
+	position: absolute;
+	left: 0;
+	top: 100%;
+	display: none;
+} 
+.main-menu ul li:hover ul {
+	display: block;
+} 
+.two {
+	background: #f1c40f;
+	height: 450px;
+	width: 45%;
+	float: left;
+	border: 15px solid green;
+	margin: 5px;
+	padding: 5px;
+	
+}
+.three {
+	background: #1abc9c;
+	height: 450px;
+	width: 24%;
+	overflow: hidden;
+	border: 15px solid tomato;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+} 
+.four {
+	background: #1abc9c;
+	height: 450px;
+	width: 20%;
+	overflow: hidden;
+	border: 15px solid tomato;
+	margin: 5px;
+	padding: 5px;
+	
+} 
+.five {
+	background:#1abc9c;
+	padding: 10px;
+	color: #ecf0f1;
+}
